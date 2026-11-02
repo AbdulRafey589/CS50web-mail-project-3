@@ -53,3 +53,11 @@ The project uses the Django backend and API provided by the course, while the fr
 **Course:** CS50's Web Programming with Python and JavaScript  
 **Project:** 3 – Mail  
 **Focus:** JavaScript, DOM Manipulation, and API Integration
+## Screenshots
+
+![Inbox](Inbox.png)
+
+![Compose](compose.png)
+
+![Email Details](inbox-details.png)
+![Reply](Reply.png)
