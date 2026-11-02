@@ -1,0 +1,39 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-box {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr) auto;
+  align-items: center;
+  gap: 16px;
+
+
+
+  border: 1px solid black;
+  padding: 8px 12px;
+  margin-bottom: 6px;
+}
+
+.email-box p {
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+}
+
+.email-sender {
+  font-weight: bold;
+}
+
+.email-subject {
+  color: #333;
+}
+
+.email-timestamp {
+  color: gray;
+  font-size: 12px;
+  text-align: right;
+}
+
